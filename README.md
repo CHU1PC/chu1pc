@@ -12,8 +12,7 @@ My studies focus on Prompt Engineering, Machine Learning (ML), Deep Learning (DL
 
 ## Frame Work
 
-<img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="代替テキスト" height="50" style="border-radius: 8px;">
-<img src="https://skillicons.dev/icons?i=fastapi,pytorch,sklearn,opencv&theme=dark" alt="代替テキスト" height="50">
+<img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="代替テキスト" height="50" style="border-radius: 18px;"> <img src="https://skillicons.dev/icons?i=fastapi,pytorch,sklearn,opencv&theme=dark" alt="代替テキスト" height="50">
 
 ---
 
