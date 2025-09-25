@@ -12,4 +12,4 @@ I study Pormp Enginerring, ML, DL, Data science.
 
 ## Languages and Frame Work
 
-![](https://simpleicons.org/icons/langchain.svg)
+![](https://simpleicons.org/icons/langchain.svg&logoColor=white)
