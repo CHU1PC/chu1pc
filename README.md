@@ -6,6 +6,6 @@ I'm currently working as a internal ship at [株式会社2WINS](https://www.2win
 
 I study Pormp Enginerring, ML, DL, Data science.
 
-![](https://github-readme-stats.vercel.app/api?username=chu1pc)
+![](https://github-readme-stats.vercel.app/api?username=chu1pc&theme=dark&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chu1pc&layout=compact&theme=dark&show_icons=true)
