@@ -16,6 +16,6 @@ My studies focus on Prompt Engineering, Machine Learning (ML), Deep Learning (DL
 
 ---
 
-([![GitHub stats](https://github-readme-stats.vercel.app/api?username=chu1pc)](https://github.com/chu1pc/github-readme-stats))
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chu1pc)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chu1pc&layout=compact&theme=dark&show_icons=true)
